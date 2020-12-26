@@ -1,3 +1,6 @@
 [submodule "noeFronter"]
 	path = noeFronter
 	url = https://github.com/knoxnoe/noe_fronter.git
+[submodule "noeServer"]
+	path = noeServer
+	url = https://github.com/knoxnoe/FullStackPractice.git
