@@ -1,0 +1,6 @@
+[submodule "noe-server"]
+	path = server
+	url = https://github.com/knoxnoe/noe_server.git
+[submodule "fronter"]
+	path = fleashop-fronter
+	url = https://github.com/knoxnoe/noe_fronter.git
