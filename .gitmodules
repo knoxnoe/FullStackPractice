@@ -1,6 +1,3 @@
 [submodule "noeFronter"]
 	path = noeFronter
 	url = https://github.com/knoxnoe/noe_fronter.git
-[submodule "noeServer"]
-	path = noeServer
-	url = git@github.com:knoxnoe/noe_server.git
